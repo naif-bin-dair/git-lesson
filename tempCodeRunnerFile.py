@@ -1,0 +1,8 @@
+text.upper() 
+# print(text)
+# text.strip() 
+# print(text)
+# text.split() 
+# print(text)
+# text.replace("o", "0") 
+# print(text)
